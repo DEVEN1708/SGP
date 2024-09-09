@@ -1,21 +1,21 @@
 export const METADATA = {
-  author: "Shubh Porwal",
-  title: "Portfolio | Shubh Porwal",
+  author: "Vedant Domadiya",
+  title: "Portfolio | Vedant Domadiya",
   description:
-    "Shubh Porwal is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
-  siteUrl: "https://www.shubhporwal.me/",
-  twitterHandle: "@shubh731",
+    "Vedant Domadiya is a passionate cloud Engineer, dedicated to architect cloud solutions.",
+  siteUrl: "#",
+  twitterHandle: "@VedantDomadiya",
   keywords: [
-    "Shubh Porwal",
-    "Frontend Engineer",
-    "React Native Developer",
+    "Vedant Domadiya",
+    "Cloud Engineer",
+    "DevOps Engineer",
     "Software Engineer",
     "Portfolio",
     "Devfolio",
     "Folio",
   ].join(", "),
-  image:
-    "https://res.cloudinary.com/dywdhyojt/image/upload/v1721378510/social-preview.png",
+  // image:
+  //   "https://res.cloudinary.com/dywdhyojt/image/upload/v1721378510/social-preview.png",
   language: "English",
   themeColor: "#000000",
 };
@@ -38,37 +38,41 @@ export const MENULINKS = [
     ref: "work",
   },
   {
+    name: "Volunteering",
+    ref: "volunteering",
+  },
+  {
     name: "Contact",
     ref: "contact",
   },
 ];
 
 export const TYPED_STRINGS = [
-  "A pragmatic Frontend Developer",
-  "I build things for the web",
-  "I create aesthetic and modern apps",
+  "A Programatic Backend Developer",
+  "Cloud Enthusiast",
+  "Aspiring DevOps Engineer",
 ];
 
 export const SOCIAL_LINKS = [
   {
     name: "mail",
-    url: "mailto: shubhporwal73@gmail.com",
+    url: "mailto: vedantdomadiya1809@gmail.com",
   },
   {
     name: "linkedin",
-    url: "https://www.linkedin.com/in/shubhporwal/",
+    url: "https://www.linkedin.com/in/VedantDomadiya/",
   },
   {
     name: "github",
-    url: "https://github.com/shubh73",
+    url: "https://github.com/VedantDomadiya",
   },
   {
     name: "instagram",
-    url: "https://www.instagram.com/shubhii73/",
+    url: "https://www.instagram.com/vedant_domadiya/",
   },
   {
     name: "twitter",
-    url: "https://twitter.com/shubh731",
+    url: "https://twitter.com/VedantDomadiya",
   },
 ];
 
